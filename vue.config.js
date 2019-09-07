@@ -22,6 +22,9 @@ module.exports = {
           //修改它的选项
           return options
         })
+  },
+  css: {
+    extract: false
   }
 }
 
